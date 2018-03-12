@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "651557222385",
+    "firebase_url": "https://trackie-98fda.firebaseio.com",
+    "project_id": "trackie-98fda",
+    "storage_bucket": "trackie-98fda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651557222385:android:9d33beaf250081cf",
+        "android_client_info": {
+          "package_name": "com.example.test.tr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651557222385-21i87u0ejin411j9kq541p1u846u03na.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test.tr",
+            "certificate_hash": "96b1232ec07f5d2b15ef256807fa2194b2091acd"
+          }
+        },
+        {
+          "client_id": "651557222385-fatqhlosun50mnmnqv03qnid6drljmlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaDkrrx8iWE0Z3MgNKRJTKET7KlzzamXY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651557222385-fatqhlosun50mnmnqv03qnid6drljmlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
